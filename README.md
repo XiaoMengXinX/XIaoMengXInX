@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![counter](https://count.getloli.com/get/@xmxx-github-readme)
 <!--
 **XiaoMengXinX/XIaoMengXInX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
